@@ -6,7 +6,9 @@
 
 **The source archive of the Scala Studios Minecraft network.**
 
-[Announcement](#announcement) · [What is published](#what-is-published) · [Using the code](#using-the-code) · [License](#license) · [Support](#support)
+[scala.gg](https://scala.gg) · [store.scala.gg](https://store.scala.gg/)
+
+<sub>[Announcement](#announcement) · [What is published](#what-is-published) · [Using the code](#using-the-code) · [Credits](#credits) · [License](#license) · [Support](#support)</sub>
 
 </div>
 
@@ -35,6 +37,13 @@ Our Minecraft infrastructure has since moved to an entirely new codebase, built 
 Every project here can be compiled from source. Beyond the license terms below, you are free to do what you like with it: run it, study it, fork it, modify it, or take over maintenance of a project under your own name.
 
 This release is intended for people who can read and build the code themselves, or who want to maintain it. It is not a packaged product, and it does not come with setup guides.
+
+> [!WARNING]
+> We do not recommend running this code in production. It is in poor condition in its current state, which is part of why we moved to a better codebase ourselves. Treat it as a reference or a starting point, and expect to put real work in before relying on it.
+
+## Credits
+
+[scala-minigames](https://github.com/scalagg/scala-minigames) and [scala-symphony](https://github.com/scalagg/scala-symphony) were originally forked from the work of [Rule Your Own Games Inc.](https://github.com/ruleyourowngame), and credit for that original work belongs to them.
 
 ## License
 
