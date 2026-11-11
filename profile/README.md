@@ -49,7 +49,7 @@ This release is intended for people who can read and build the code themselves, 
 
 Copyright © LunarLabs LLC. All rights reserved, except as granted below.
 
-The code in this organization is the property of LunarLabs LLC and is made available under a source-available, non-commercial license.
+The code in this organization is the property of LunarLabs LLC and is made available under the [Scala Studios Source-Available License](https://github.com/scalagg/.github/blob/HEAD/LICENSE), a source-available, non-commercial license. In summary:
 
 **You may**
 
